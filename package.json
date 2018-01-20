@@ -1,0 +1,18 @@
+{
+  "name": "hello.electron",
+  "version": "0.0.1",
+  "description": "interactive app for elo touchscreen",
+  "author": "Enrique Ballesté (eballeste@divisionof.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divisionof/hello.electron.git"
+  },
+  "keywords": [
+    "electron",
+    "elo",
+    "js",
+    "p5.js",
+    "touchscreen"
+  ],
+  "private": true
+}
