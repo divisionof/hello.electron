@@ -14,5 +14,8 @@
     "p5.js",
     "touchscreen"
   ],
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "electron": "^1.7.10"
+  }
 }
