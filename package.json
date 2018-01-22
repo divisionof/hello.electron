@@ -17,5 +17,6 @@
   "private": true,
   "devDependencies": {
     "electron": "^1.7.10"
-  }
+  },
+  "main": "main.js"
 }
