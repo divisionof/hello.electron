@@ -2,7 +2,11 @@
   "name": "hello.electron",
   "version": "0.0.1",
   "description": "interactive app for elo touchscreen",
-  "author": "Enrique Ballesté (eballeste@divisionof.com)",
+  "author": "Enrique Ballesté <eballeste@divisionof.com>",
+  "scripts": {
+    "electro": "npx electron ."
+  },
+  "main": "main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/divisionof/hello.electron.git"
@@ -17,6 +21,5 @@
   "private": true,
   "devDependencies": {
     "electron": "^1.7.10"
-  },
-  "main": "main.js"
+  }
 }
