@@ -1,0 +1,8 @@
+html, body, canvas {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+canvas {display:block;} /* no scrollbars */
+canvas:focus {outline:0;} /* no outline around canvas */
